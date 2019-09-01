@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    puts("C语言中文网");
+    puts("fuck test");
     return 0;
 }
