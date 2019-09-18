@@ -1,3 +1,4 @@
+//Quiz3. rewrite program.
 #include <stdbool.h>
 #include <stdio.h>
 bool func(unsigned int x) {
