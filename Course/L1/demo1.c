@@ -1,3 +1,4 @@
+//PPT_example_no_correction.
 #include <stdio.h>
 int main() {
     float sum = 0.0f;
