@@ -1,3 +1,4 @@
+//Quiz1.
 #include <stdio.h>
 #define align4(x) (((x) + 3) & (-4))
 int main(void) {
