@@ -18,6 +18,6 @@ int32_t test(int32_t x) {
     return (x + mask) ^ mask;
 }
 int main(void) {
-    printf("abs(INT32_MIN) = %d\n", test(-2147483648));
+    printf("abs(INT32_MIN) = %d\n", test(-2147483647));
     return 0;
 }
