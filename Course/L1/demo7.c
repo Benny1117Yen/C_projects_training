@@ -1,6 +1,9 @@
 #include <stdio.h>
+
+
 #define INT_SIZE_OF(n, X, Y) \
 		((sizeof(n) + sizeof(int) + X) & ~(sizeof(int) + Y))
+
 
 int main() {
 	char arr[13];
