@@ -17,6 +17,8 @@ bool func1(unsigned int x) {
 
 int main() {
 	printf("%d\n",func(0));
+	printf("%d\n",func(1));
+	printf("%d\n",func1(0));
 	printf("%d\n",func1(1));
 	return 0;
 }
