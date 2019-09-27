@@ -1,0 +1,30 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "工作-example4-0",
+      "appliesTo": "DataStructurePratice/example4-0.c",
+      "type": "launch"
+    },
+    {
+      "taskName": "工作-example4-0",
+      "appliesTo": "DataStructurePratice/example4-0.c",
+      "type": "launch"
+    },
+    {
+      "taskName": "工作-Source1",
+      "appliesTo": "DataStructurePratice/Source1.cpp",
+      "type": "launch"
+    },
+    {
+      "taskName": "工作-test1",
+      "appliesTo": "DataStructurePratice/test1.c",
+      "type": "launch"
+    },
+    {
+      "taskName": "工作-DataStructurePratice",
+      "appliesTo": "DataStructurePratice/",
+      "type": "launch"
+    }
+  ]
+}
